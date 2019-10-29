@@ -1,0 +1,39 @@
+{
+  "name": "xstate-router",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@rebass/forms": "4.0.6",
+    "@rebass/layout": "4.0.6",
+    "@rebass/preset": "4.0.5",
+    "@thi.ng/associative": "3.0.1",
+    "@thi.ng/paths": "2.1.5",
+    "@thi.ng/router": "2.0.5",
+    "@xstate/react": "0.8.0",
+    "emotion-theming": "10.0.19",
+    "react": "16.8.4",
+    "react-dom": "16.8.4",
+    "react-scripts": "2.1.3",
+    "rebass": "4.0.7",
+    "xstate": "4.6.7"
+  },
+  "devDependencies": {
+    "@types/react": "16.8.8",
+    "@types/react-dom": "16.8.2",
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
