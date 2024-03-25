@@ -9,7 +9,7 @@
     "@rebass/layout": "4.0.6",
     "@rebass/preset": "4.0.5",
     "@thi.ng/associative": "3.0.1",
-    "@thi.ng/paths": "2.1.5",
+    "@thi.ng/paths": "5.1.63",
     "@thi.ng/router": "2.0.5",
     "@xstate/react": "0.8.0",
     "emotion-theming": "10.0.19",
